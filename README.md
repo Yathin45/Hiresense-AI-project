@@ -1,0 +1,1 @@
+Hi my name is yathinyadav, i have build one project called Hiresense Ai Smart Requirement System , it will be used for Job seekers and feshers,why because in my project have how to check my resume is good for that it as ATS checker , it will you and if you resume is good then it will provide you test and it will provide you date of HR inteview
